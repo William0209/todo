@@ -71,7 +71,7 @@ const TodoWrapper = () => {
       )}
 
       <div className="mb-8 flex flex-col items-center">
-        <h1 className="mb-2 text-3xl font-bold text-white">Todo List</h1>
+        <h1 className="mb-2 text-3xl font-bold text-white">Todoz</h1>
         <p className="text-[#8A898C]">Keep track of your tasks</p>
       </div>
 
